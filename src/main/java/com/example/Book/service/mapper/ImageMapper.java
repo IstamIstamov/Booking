@@ -1,2 +1,4 @@
-package com.example.Book.service.mapper;public class ImageMapper {
+package com.example.Book.service.mapper;
+
+public class ImageMapper {
 }
